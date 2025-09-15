@@ -3,3 +3,4 @@ PyJWT
 Flask
 numpy
 SQLAlchemy
+scikit-learn
