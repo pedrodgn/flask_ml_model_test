@@ -1,0 +1,5 @@
+joblib
+PyJWT
+Flask
+numpy
+SQLAlchemy
